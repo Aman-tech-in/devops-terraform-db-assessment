@@ -1,0 +1,20 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+
+# Local secrets/config
+.env
+
+# Database backups - do not commit database dumps
+backups/*.sql
+backups/*.dump
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
