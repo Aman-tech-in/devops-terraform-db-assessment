@@ -1,6 +1,6 @@
 # DevOps Assessment – Terraform + Database Reliability
 
-This repository implements the requested assessment with Terraform, AWS ECS/Fargate + ALB + RDS design, Docker Compose PostgreSQL, seed/migration SQL, backup/restore scripts, and GitHub Actions.
+This Test repository implements the requested assessment with Terraform, AWS ECS/Fargate + ALB + RDS design, Docker Compose PostgreSQL, seed/migration SQL, backup/restore scripts, and GitHub Actions.
 
 ## Architecture
 
