@@ -173,3 +173,4 @@ git push -u origin main
 ```
 
 Do not commit `.env`, Terraform state files, real AWS credentials, or database dumps.
+Testing GitHub Actions workflow.
